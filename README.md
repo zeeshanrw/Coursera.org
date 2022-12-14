@@ -1,3 +1,3 @@
 # Coursera.org
 
-Meta-Forntend
+Meta-Frontend
