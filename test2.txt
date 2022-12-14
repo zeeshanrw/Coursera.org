@@ -1,2 +1,4 @@
 this is the 2nd file. 
+this is the 2nd line.
 
+this is the third line
